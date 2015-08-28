@@ -108,7 +108,6 @@ set statusline+=[%p%%]
 
 "ファイルタイプに応じて挙動,色を変える
 syntax on
-colorscheme molokai
 filetype plugin on
 filetype indent on
 
